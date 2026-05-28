@@ -1,0 +1,10 @@
+{
+  "name": "Smart Hospital Management & Emergency Booking",
+  "description": "Discover hospitals, book appointments like ordering food, track medical queues in real-time, and get one-click SOS emergency routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
